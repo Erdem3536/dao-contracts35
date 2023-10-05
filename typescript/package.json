@@ -32,6 +32,6 @@
     "@cosmjs/stargate": "^0.28.6",
     "@cosmjs/stream": "^0.28.4",
     "@cosmjs/tendermint-rpc": "^0.28.4",
-    "dotenv": "^10.0.0"
+    "dotenv": "^16.3.1"
   }
 }
