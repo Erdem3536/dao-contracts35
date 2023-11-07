@@ -30,7 +30,7 @@
     "@cosmjs/cosmwasm-stargate": "^0.28.6",
     "@cosmjs/proto-signing": "^0.28.4",
     "@cosmjs/stargate": "^0.28.6",
-    "@cosmjs/stream": "^0.28.4",
+    "@cosmjs/stream": "^0.31.1",
     "@cosmjs/tendermint-rpc": "^0.28.4",
     "dotenv": "^10.0.0"
   }
