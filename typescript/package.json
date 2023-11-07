@@ -28,7 +28,7 @@
   "dependencies": {
     "@cosmjs/amino": "^0.28.4",
     "@cosmjs/cosmwasm-stargate": "^0.28.6",
-    "@cosmjs/proto-signing": "^0.28.4",
+    "@cosmjs/proto-signing": "^0.31.1",
     "@cosmjs/stargate": "^0.28.6",
     "@cosmjs/stream": "^0.28.4",
     "@cosmjs/tendermint-rpc": "^0.28.4",
